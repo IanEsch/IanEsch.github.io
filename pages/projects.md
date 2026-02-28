@@ -1,7 +1,7 @@
 ---
 layout: projects
 title: "Konzepte & Lizenzen"
-permalink: "/projects/"
+permalink: "/projekte/"
 
 projects:
   heading: "" # "Lizenzmodelle und fachliche Konzepte"

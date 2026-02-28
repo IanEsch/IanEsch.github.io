@@ -2,7 +2,7 @@
 title: "Datenschutz"
 date: 2026-02-27
 layout: basic
-permalink: "/privacy-policy/"
+permalink: "/datenschutz/"
 ---
 
 Das Ziel dieser Website ist es, so wenig Daten wie möglich zu erheben oder zu speichern. Es werden keine Cookies verwendet, die über das technisch notwendige Maß hinausgehen.

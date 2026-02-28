@@ -2,7 +2,7 @@
 title: "Nutzungsbedingungen"
 date: 2026-02-28
 layout: basic
-permalink: "/terms-and-conditions/"
+permalink: "/nutzungsbedingungen/"
 ---
 
 # Nutzungsbedingungen

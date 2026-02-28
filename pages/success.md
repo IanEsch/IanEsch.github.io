@@ -2,7 +2,7 @@
 title: "Nachricht gesendet"
 date: 2026-02-28
 layout: basic
-permalink: "/contact/success/"
+permalink: "/kontakt/success/"
 ---
 
 ## Vielen Dank für Ihre Nachricht.

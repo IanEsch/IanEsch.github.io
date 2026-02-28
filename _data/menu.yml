@@ -2,50 +2,44 @@ main:
   - name: Home
     url: /
     weight: 1
-  - name: Projects
-    url: /projects/
+  - name: Projekte
+    url: /projekte/
     weight: 2
     child:
-      - name: "Project Layout 1"
+      - name: "Blätterdach"
         icon: "/assets/images/icons/wireframe-7.svg"
         icon_darkmode: "/assets/images/icons/wireframe-7-white.svg"
         description: "Default Project layout"
-        url: /projects/project-1/
-      - name: "Project Layout 2"
+        url: /projekte/blaetterdach/
+      - name: "Gunterbunter Hof"
         icon: "/assets/images/icons/wireframe-5.svg"
         icon_darkmode: "/assets/images/icons/wireframe-5-white.svg"
         description: "Right side layout"
-        url: /projects/project-2/
-      - name: "Project Layout 3"
+        url: /projekte/gunterbunter-hof/
+      - name: "Erwachsenenbildung"
         icon: "/assets/images/icons/wireframe-6.svg"
         icon_darkmode: "/assets/images/icons/wireframe-6-white.svg"
         description: "Left side layout"
-        url: /projects/project-3/
-      - name: "Project Layout 4"
-        icon: "/assets/images/icons/wireframe-8.svg"
-        icon_darkmode: "/assets/images/icons/wireframe-8-white.svg"
-        description: "Top layout"
-        url: /projects/project-4/
+        url: /projekte/erwachsenenbildung/
   - name: Blog
     url: /blog/
     weight: 2
   - name: About
     url: /about/
     weight: 3
-  - name: Contact
-    url: /contact/
+  - name: Kontakt
+    url: /kontakt/
     weight: 4
   
 
 footer_primary:
-  - name: "Project 1"
-    url: /projects/project-1/
-  - name: "Project 2"
-    url: /projects/project-2/
-  - name: "Project 3"
-    url: /projects/project-3/
-  - name: "Project 4"
-    url: /projects/project-4/
+  - name: "Blätterdach"
+    url: /projekte/blaetterdach/
+  - name: "Gunterbunter Hof"
+    url: /projekte/gunterbunter-hof/
+  - name: "Erwachsenenbildung"
+    url: /projekte/erwachsenenbildung/
+
 
 footer_secondary:
   - name: Blog
@@ -54,28 +48,28 @@ footer_secondary:
   - name: About
     url: /about/
     weight: 3
-  - name: Contact
-    url: /contact/
+  - name: Kontakt
+    url: /kontakt/
     weight: 4
-  - name: Privacy Policy
-    url: /privacy-policy/
+  - name: Datenschutz
+    url: /datenschutz/
     weight: 1
-  - name: Terms and Conditions
-    url: /terms-and-conditions/
+  - name: Nutzungsbedingungen
+    url: /nutzungsbedingungen/
     weight: 2
 
 footer_tertiary:
-  - name: Privacy Policy
-    url: /privacy-policy/
+  - name: Datenschutz
+    url: /datenschutz/
     weight: 1
-  - name: Terms and Conditions
-    url: /terms-and-conditions/
+  - name: Nutzungsbedingungen
+    url: /nutzungsbedingungen/
     weight: 2
 
 bottom:
-  - name: Privacy Policy
-    url: /privacy-policy/
+  - name: Datenschutz
+    url: /datenschutz/
     weight: 3
-  - name: Terms and Conditions
-    url: /terms-and-conditions/
+  - name: Nutzungsbedingungen
+    url: /nutzungsbedingungen/
     weight: 4
