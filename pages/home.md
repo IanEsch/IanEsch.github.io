@@ -1,23 +1,23 @@
 ---
 layout: home
 permalink: "/"
-title: "Curate is a premium portfolio for <strong>Jekyll.</strong>"
-description: "Showcase your projects, work or case studies in style with this markdown powered portfolio theme for Jekyll."
-meta_description: "Jekyll Curate is a premium Jekyll blog theme"
-meta_title: Jekyll Curate - Premium Portfolio Theme
+title: "Bildung & <strong>Nachhaltigkeit.</strong>"
+description: "Konzepte und Impulse für die Welt von morgen: funktionierende Lösungen für eine <strong>lebenswerte Zukunft</strong>."
+meta_description: "Konzepte für eine lebenswerte Zukunft und wie Gestaltungskompetenz den Weg aus der Klimakrise ebnet."
+meta_title: Bildung & Nachhaltigkeit | Fokus Zukunft
 subscribe: false
 
 projects:
-  heading: "" # "Projects"
-  sub_heading: "" # "A collection of our recent work"
+  heading: "" # "Projekte"
+  sub_heading: "" # "Eine Sammlung von Projekten für nachhaltige Entwicklung."
   limit: 4
   sort: date # date | weight
-  view_more_button_text: "" # "More Projects"
-  view_more_button_link: "" # "/projects"
+  view_more_button_text: "" # "Mehr"
+  view_more_button_link: "" # "/projekte"
   columns: 2 # 1 | 2 | 3 | 4
 
 posts:
-  heading: "Recent Posts"
+  heading: "Neuste Artikel"
   sub_heading: ""
   limit: 3
   sort: date # date | weight
@@ -25,3 +25,4 @@ posts:
   view_more_button_link: "" # "/blog"
   columns: 3 # 1 | 2 | 3 | 4
 ---
+

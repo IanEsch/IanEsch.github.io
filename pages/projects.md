@@ -1,11 +1,11 @@
 ---
 layout: projects
-title: Projects
+title: "Konzepte & Lizenzen"
 permalink: "/projects/"
 
 projects:
-  heading: "" # "Projects"
-  sub_heading: "" # "A collection of our recent work"
+  heading: "" # "Lizenzmodelle und fachliche Konzepte"
+  sub_heading: "" # "Konzepte zur Umsetzung von Bildungsprojekten und ökologischen Transformationen"
   limit: 96
   sort: date # date | weight
   view_more_button_text: "" # "More Projects"

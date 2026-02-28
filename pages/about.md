@@ -1,46 +1,34 @@
 ---
 layout: basic
-title: "About Us"
-date: 2018-11-28T15:15:34+10:00
+title: "Über das Projekt"
+date: 2026-02-27
 permalink: "/about/"
-description: "Business plan hackathon handshake responsive web design."
+description: "Hintergründe zu den Themen Bildung, Nachhaltigkeit und zukunftsorientierte Konzepte."
 image: "/assets/images/gen/content/content-5.webp"
 ---
 
-# Creating Modern Websites
+# Bildung als Gestaltungsmittel
 
-Web design encompasses many different skills and disciplines in the production and maintenance of websites.
+Der Wandel hin zu einer nachhaltigen Gesellschaft ist keine rein technische Herausforderung, sondern vor allem eine Frage der Bildung und der Vermittlung von Gestaltungskompetenz. 
 
-Often many individuals will work in teams covering different aspects of the design process, although some designers will cover them all. Web design partially overlaps web engineering in the broader scope of web development.
+Auf dieser Plattform werden Ansätze und Konzepte gesammelt, die zeigen, wie aus Wissen Handeln wird. Der Fokus liegt dabei auf Projekten, die ökologische Notwendigkeit mit gesellschaftlicher Lebensqualität verbinden.
 
-## What is Web Design?
+## Schwerpunkte
 
-User experience is about how a user interacts with, and experiences, a particular product, system or service. As a UX designer, you should consider the Why, What and How of product use.
+Die inhaltliche Arbeit konzentriert sich auf die Schnittstellen zwischen Pädagogik und ökologischer Transformation. 
 
-{% include framework/shortcodes/figure.html src="/assets/images/gen/content/content-1.webp" title="Steve Francia" caption="Designing in Figma" alt="Photo of designing a website in Figma" link="https://figma.com" target="\_blank" %}
+### Bildung für nachhaltige Entwicklung (BNE)
+Die Rückgewinnung der eigenen Handlungsfähigkeit steht im Zentrum. Es geht darum, komplexe globale Zusammenhänge verstehbar zu machen und konkrete lokale Handlungsoptionen aufzuzeigen.
 
-## Front-end Development
+### Konzepte für die Welt von morgen
+Ob Schwammstädte, Biodiversitätsstrategien oder regenerative Energien – im Fokus stehen Lösungen, die bereits heute funktionieren und als Vorbild für morgen dienen können.
 
-The What addresses the things people can do with a product—its functionality. Finally, the How relates to the design of functionality in an accessible and aesthetically pleasant way. UX designers start with the Why before determining the What and then, finally, the How in order to create products that users can form meaningful experiences with. In software designs, you will need to ensure the product’s “substance” comes through an existing device and offers a seamless, fluid experience.
+> "Gestaltungskompetenz bedeutet, die Zukunft nicht nur zu erleiden, sondern sie aktiv zu formen."
 
-> As a UX designer, you should consider the Why, What and How of product use.
+## Der Ansatz
 
-Web designers are expected to have an awareness of usability and if their role involves creating markup then they are also expected to be up to date with web accessibility guidelines.
+Die Arbeit als Lehrer und Konzepter ermöglicht es, Theorie und Praxis direkt zu verknüpfen. Ziel ist es, fundierte Informationen so aufzubereiten, dass sie zur aktiven Mitgestaltung motivieren.
 
-## Design Systems
-
-A Design System is a set of interconnected patterns and shared practices coherently organized to aid in digital product design and development of products such as apps or websites.
-
-{% include framework/shortcodes/youtube.html id='2M6dJ2Uynhg' %}
-
-## Process
-
-There are two primary jobs involved in creating a website: the web designer and web developer, who often work closely together on a website. The web designers are responsible for the visual aspect, which includes the layout, coloring and typography of a web page.
-
-- User experience research
-- Visual design and illustration
-- Programming and coding
-
-![Design In Figma]({{ "/assets/images/gen/content/content-2.webp" | relative_url }})
-
-Web designers will also have a working knowledge of markup languages such as HTML and CSS, although the extent of their knowledge will differ from one web designer to another.
+- **Analytisch:** Den Status Quo der Klimakrise verstehen.
+- **Lösungsorientiert:** Bestehende Erfolge sichtbar machen.
+- **Didaktisch:** Wissen so vermitteln, dass es Handlung ermöglicht.
