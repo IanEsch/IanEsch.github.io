@@ -46,10 +46,7 @@ defaults:
       path: "categories"
     values:
       permalink: /category/:basename/
-  - scope:
-      path: "pages"
-    values:
-      permalink: /:basename/
+
 
 # SCSS
 sass:
