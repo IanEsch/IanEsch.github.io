@@ -6,7 +6,7 @@ meta_title: "Bürgeracker Neuss | Urbane Bildung, Artenschutz und Gemeinschaft"
 meta_description: "Der Bürgeracker Neuss ist ein urbaner Lernort für Artenschutz, Nachhaltigkeit und Gemeinschaft — mit digitalen Pflanzensteckbriefen, SDG-Workshops und Upcycling-Aktionen."
 date: 2025-01-01
 weight: 2
-thumbnail: "/assets/images/gen/projects/buergeracker-2.jpg"
+thumbnail: "/assets/images/gen/projects/buergeracker-3.jpg"
 image: "/assets/images/gen/projects/buergeracker-3.jpg"
 client: "VHS Neuss"
 categories: ["Urbane Bildung", "Artenschutz", "Gemeinschaft"]
