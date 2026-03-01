@@ -44,6 +44,7 @@ defaults:
       image: true
   - scope:
       path: "categories"
+      type: pages         
     values:
       permalink: /category/:basename/
 
