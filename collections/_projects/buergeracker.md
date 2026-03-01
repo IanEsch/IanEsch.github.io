@@ -30,6 +30,7 @@ Ein einfaches Monitoring-System macht sichtbar, was im Boden passiert: Bodenfeuc
 Regelmäßige Workshops verbinden das Praktische mit dem Größeren: Was haben diese Pflanzen mit den globalen Nachhaltigkeitszielen zu tun? Was hat mein Konsum damit zu tun? Und was kann ich konkret tun?
 
 **Angebote für alle Ebenen**
+
 Der Bürgeracker richtet sich nicht nur an Einzelpersonen. Es gibt Angebote für Schulklassen und Kitas, für Erwachsene und Familien, für Vereine und Kommunen — jeweils angepasst an den Kontext, immer mit dem Acker als gemeinsamem Ausgangspunkt.
 
 **Mitmachen**

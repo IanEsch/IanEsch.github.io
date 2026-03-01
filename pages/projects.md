@@ -1,11 +1,11 @@
 ---
 layout: projects
-title: "Konzepte & Lizenzen"
+title: "Projekte"
 permalink: "/projekte/"
 
 projects:
-  heading: "Projekte"
-  sub_heading: "Durchdacht. Bereit für die Praxis."
+  heading: "Durchdacht. Bereit für die Praxis."
+  sub_heading: ""
   limit: 96
   sort: date # date | weight
   view_more_button_text: "" # "Weitere Projekte"
