@@ -1,24 +1,50 @@
 ---
 layout: project-right
-title: "Brutalist Office Building"
-description: "In contrast subsymbolic processing specifies no such rules a priori and relies on emergent properties of processing units"
-date: 2018-11-03T10:20:00Z
-weight: 1
-thumbnail: "/assets/images/gen/projects/project-1-1-thumbnail.webp"
-image: "/assets/images/gen/projects/project-1-2.webp"
-categories: ["Development"]
-client: "Dubai Star"
-role: "Building Designer"
-gallery:
-  - image: "/assets/images/gen/projects/project-1-1.webp"
-    caption: "<strong>Above:</strong> North easterly aspect showing curved design"
-  - image: "/assets/images/gen/projects/project-1-2.webp"
-    caption: "<strong>Above:</strong> Rear offices square design in contrast"
-gallery_limit: 2
+title: "Erwachsenenbildung"
+description: "Nachhaltigkeit verstehen, diskutieren, umsetzen — Vorträge, Workshops und Kurse rund um die 17 UN-Nachhaltigkeitsziele."
+meta_title: "Umweltbildung & Nachhaltigkeitskurse für Unternehmen und Erwachsene | Fokus Zukunft"
+meta_description: "BNE-Kurse, Workshops und Vorträge zu Nachhaltigkeit, SDGs und Umweltbildung — für Unternehmen, Volkshochschulen und Bildungseinrichtungen."
+date: 2024-01-01
+weight: 3
+categories: ["Erwachsenenbildung", "BNE", "Nachhaltigkeit"]
 ---
 
-Architecture is both the process and the product of planning, designing, and constructing buildings or other structures.Architectural works, in the material form of buildings, are often perceived as cultural symbols and as works of art.
+Nachhaltigkeit ist kein Nischenthema mehr — aber sie wird noch zu oft falsch vermittelt: zu abstrakt, zu belehrend, zu weit weg vom Alltag.
 
-The practice, which began in the prehistoric era, has been used as a way of expressing culture for civilizations on all seven continents.
+Die Angebote in diesem Bereich setzen anders an. Ob kompakter Impulsvortrag, moderierter Workshop oder mehrteiliger Kurs: Im Mittelpunkt steht immer die Frage, was die 17 globalen Nachhaltigkeitsziele der UN konkret bedeuten — für Menschen, für Unternehmen, für die Stadt, in der wir leben.
 
-Architecture began as rural, oral vernacular architecture that developed from trial and error to successful replication. Ancient urban architecture was preoccupied with building religious structures and buildings symbolizing the political power of rulers until Greek and Roman architecture shifted focus to civic virtues.
+**Formate**
+
+Vorträge mit interaktiven Elementen für Veranstaltungen und interne Weiterbildungen. Workshops, die Theorie und Praxis verbinden — vom Greenwashing-Check bis zum Urban Gardening. Mehrteilige Kurse, die Schritt für Schritt Handlungskompetenz aufbauen, ohne erhobenen Zeigefinger.
+
+**Themen**
+
+*Gerechtigkeit & Gesellschaft*
+- Soziale Ungleichheit und ökologische Handlungsspielräume
+- Verhaltensmuster und Psychologie des Wandels
+- Nachhaltiger Familienalltag
+
+*Ressourcen & Ernährung*
+- Planetare Belastungsgrenzen und Klimaschutz
+- Lebensmittelproduktion, Wasserverbrauch und Biodiversität
+- Urbane Selbstversorgung und Permakultur
+
+*Konsum & Kreislaufwirtschaft*
+- Greenwashing erkennen und Siegel verstehen
+- Textilkonsum und globale Lieferketten
+- Suffizienz und Minimalismus als Lebensstil
+
+*Stadt & Strukturen*
+- Nachhaltige Stadtplanung und urbane Resilienz
+- Klimaanpassung, Schwammstadt und Biodiversität
+- Politische Teilhabe und lokale Hebel
+
+*Von der Idee zur Umsetzung*
+- Selbstwirksamkeit und Gestaltungskompetenz
+- Entwicklung eigener Impact-Projekte
+
+**Für Unternehmen**
+
+Nachhaltigkeitsthemen gewinnen in der internen Kommunikation, im Employer Branding und in der ESG-Berichterstattung zunehmend an Bedeutung. Maßgeschneiderte Formate für Firmenschulungen, Team-Workshops oder Mitarbeiterveranstaltungen sind auf Anfrage möglich.
+
+Interesse? Über die [Kontaktseite](/kontakt/) kann ein unverbindliches Gespräch angefragt werden.

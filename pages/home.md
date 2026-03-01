@@ -1,9 +1,9 @@
 ---
 layout: home
 permalink: "/"
-title: "Bildung & <strong>Nachhaltigkeit.</strong>"
-description: "Konzepte und Impulse für die Welt von morgen: funktionierende Lösungen für eine <strong>lebenswerte Zukunft</strong>."
-meta_description: "Konzepte für eine lebenswerte Zukunft und wie Gestaltungskompetenz den Weg aus der Klimakrise ebnet."
+title: "Bildung, Natur, <strong>Zukunft</strong>"
+description: "Für eine Welt, in der <strong>Bildung und Natur</strong> denselben Platz haben. Damit die nächste Generation mehr erbt als Probleme."
+meta_description: "Skalierbarer Naturschutz und Umweltbildung — Konzepte für Städte, gemacht für Menschen."
 meta_title: Bildung & Nachhaltigkeit | Fokus Zukunft
 subscribe: false
 
