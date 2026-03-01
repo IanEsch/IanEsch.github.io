@@ -18,7 +18,7 @@ paginate_path: "/blog/page/:num"
 # Collections
 collections_dir: collections
 collections:
-  projekte:
+  projects:
     output: true
     permalink: /projects/:path/
   posts:
@@ -29,7 +29,7 @@ collections:
 defaults:
   - scope:
       path: ""
-      type: "projekte"
+      type: "projects"
     values:
       layout: "project"
   - scope:
@@ -43,12 +43,13 @@ defaults:
     values:
       image: true
   - scope:
-      path: "categories"
-      type: pages         
+      path: "categories"       
     values:
       permalink: /category/:basename/
-
-# HIER HABE ICH DEN "PAGES" BLOCK GELÖSCHT!
+  - scope:
+      path: "pages"
+    values:
+      permalink: /:basename/
 
 
 # SCSS
