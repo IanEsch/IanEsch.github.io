@@ -20,7 +20,7 @@ collections_dir: collections
 collections:
   projects:
     output: true
-    permalink: /projects/:path/
+    permalink: /projekte/:path/
   posts:
     output: true
     permalink: /blog/:path/
