@@ -21,6 +21,11 @@ main:
         icon_darkmode: "/assets/images/icons/wireframe-6-white.svg"
         description: "Left side layout"
         url: /projekte/erwachsenenbildung/
+      - name: "Bürgeracker Neuss"
+        icon: "/assets/images/icons/wireframe-6.svg"
+        icon_darkmode: "/assets/images/icons/wireframe-6-white.svg"
+        description: "Urbaner Lernort für Artenschutz und Gemeinschaft"
+        url: /projekte/buergeracker/
   - name: Blog
     url: /blog/
     weight: 2
@@ -39,6 +44,8 @@ footer_primary:
     url: /projekte/gunterbunter-hof/
   - name: "Erwachsenenbildung"
     url: /projekte/erwachsenenbildung/
+  - name: "Bürgeracker Neuss"
+    url: /projekte/buergeracker/
 
 
 footer_secondary:
