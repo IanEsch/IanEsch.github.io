@@ -7,7 +7,7 @@ meta_description: "Konzepte für eine lebenswerte Zukunft und wie Gestaltungskom
 meta_title: Bildung & Nachhaltigkeit | Fokus Zukunft
 subscribe: false
 
-projects:
+projekte:
   heading: "" # "Projekte"
   sub_heading: "" # "Eine Sammlung von Projekten für nachhaltige Entwicklung."
   limit: 4
