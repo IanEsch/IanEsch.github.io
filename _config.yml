@@ -47,6 +47,8 @@ defaults:
     values:
       permalink: /category/:basename/
 
+# HIER HABE ICH DEN "PAGES" BLOCK GELÖSCHT!
+
 
 # SCSS
 sass:
