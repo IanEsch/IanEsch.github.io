@@ -38,8 +38,7 @@ Permakultur braucht keinen Hektar Land. Die Prinzipien lassen sich auf jeden Ma�
 Ein Kräuterbeet mit mehreren Schichten – niedrige Bodendecker, mittelhohe Kräuter, ein kleiner Strauch – ist ein permakulturelles System. Kompostierung ist Permakultur. Regenwasser sammeln ist Permakultur. Beete mulchen statt umgraben ist Permakultur.
 Wer mehr will: In Deutschland gibt es inzwischen ein wachsendes Netz an Permakultur-Kursen und Demonstrationsflächen. Der Einstieg ist niedrigschwellig, die Lernkurve steil – im positiven Sinne.
 
-Das Besondere an Permakultur ist nicht, dass sie neu ist. Es ist, dass sie funktioniert. Und dass sie eine Haltung beschreibt, nicht nur eine Methode: Weniger eingreifen. Besser beobachten. Langfristig denken.
-In einer Zeit, in der viele Lösungen schnell, technisch und skalierbar sein sollen, ist das eine ungewohnte Qualität. Und vielleicht genau deswegen so wertvoll.
+Das Besondere an Permakultur ist nicht, dass sie neu ist. Es ist, dass sie funktioniert. Und dass sie eine Haltung beschreibt, nicht nur eine Methode: Weniger eingreifen. Besser beobachten. Langfristig denken. In einer Zeit, in der viele Lösungen schnell, technisch und skalierbar sein sollen, ist das eine ungewohnte Qualität. Und vielleicht genau deswegen so wertvoll.
 
 ![Permakultur als echte Alternative](/assets/images/gen/blog/growing-future-1.jpg)
 
