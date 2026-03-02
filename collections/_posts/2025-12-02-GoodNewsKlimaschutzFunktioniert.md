@@ -5,8 +5,8 @@ date: 2025-12-02
 authors: ["Ian Esch"]
 categories: ["#Good News", "#SDG", "#Nachhaltigkeit", "#BNE"]
 description: "Wieso es sich lohnt, für die Umwelt zu planen – und warum Optimismus der erste Schritt ist"
-thumbnail: "/assets/images/gen/blog/blog-1-thumbnail.webp"
-image: "/assets/images/gen/blog/blog-1.webp"
+thumbnail: "/assets/images/gen/blog/goodnews-thumbnail.png"
+image: "/assets/images/gen/blog/goodnews-tumbnail.png"
 ---
 
 Wenn wir heute die Nachrichten öffnen, begegnen uns oft Ohnmacht und Krise. Als Lehrer und Konzepter erlebe ich das in meinen Kursen immer wieder: Die schiere Größe der globalen Herausforderungen – Krieg, Hunger, Klimawandel – führt oft zur Starre statt zur Handlung. Man fragt sich: Lohnt sich der Einsatz überhaupt noch?
@@ -22,8 +22,7 @@ Meine Antwort darauf ist ein klares Ja. Aber nicht aus einer naiven Träumerei h
 > "Was wir heute tun, entscheidet darüber, wie die Welt morgen aussieht."
 Marie von Ebner-Eschenbach
 
-
-{% include framework/shortcodes/figure.html src="/assets/images/gen/content/content-1.webp" title="There are many popular text editors for Markdown" caption="VSCode Editor" alt="Photo of designing a website in Figma" link="https://figma.com" target="\_blank" %}
+![Politische Teilhabe auf Demonstration](/assets/images/gen/blog/good-news-protest.jpg)
 
 ## Zu optimistisch?
 
@@ -35,6 +34,6 @@ Den Blickwinkel verändern. Es ist an der Zeit, dass wir den Blick weiten: Weg v
 
 Ich möchte dazu einladen, in diesem Format gemeinsam mit mir die positiven Entwicklungen unserer Zeit zu betrachten. Denn auch wenn die tägliche Berichterstattung sich oft fast ausschließlich auf das Negative konzentriert und uns das Gefühl von Ohnmacht vermittelt, geschieht im Hintergrund unendlich viel Gutes.
 
-{% include framework/shortcodes/figure.html src="/assets/images/gen/content/content-2.webp" title="There are many popular text editors for Markdown" caption="VSCode Editor" alt="Photo of designing a website in Figma" link="https://figma.com" target="\_blank" %}
+![Als Team können wir die Erde retten](/assets/images/gen/blog/good-news-team.jpg)
 
 
