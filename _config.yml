@@ -96,7 +96,7 @@ colors:
   base_text_dark: "#b1b8a3" # H1; Footer Text, L/D Icons
   base_text_2_dark: "#d4d9cc" # Text bodies; H2
   logo_text_dark: "#fdfcf9"
-  header_text_dark: "#fdfcf9"
+  header_text_dark: "#fdfcf9" #
 
 fonts:
   use_google_fonts: false
