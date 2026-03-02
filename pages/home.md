@@ -8,9 +8,8 @@ meta_title: Bildung & Nachhaltigkeit | Fokus Zukunft
 subscribe: false
 
 projekte:
-  heading: "" # "Projekte"
-  sub_heading: "" # "Eine Sammlung von Projekten für nachhaltige Entwicklung."
-  limit: 4
+  heading: "" # 
+  sub_heading: "" #
   sort: date # date | weight
   view_more_button_text: "" # "Mehr"
   view_more_button_link: "" # "/projekte"
