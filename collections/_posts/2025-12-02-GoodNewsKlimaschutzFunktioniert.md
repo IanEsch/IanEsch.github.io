@@ -9,6 +9,8 @@ thumbnail: "/assets/images/gen/blog/goodnews-thumbnail.png"
 image: "/assets/images/gen/blog/goodnews-tumbnail.png"
 ---
 
+![Good News!](/assets/images/gen/blog/goodnews-thumbnail.jpg)
+
 Wenn wir heute die Nachrichten öffnen, begegnen uns oft Ohnmacht und Krise. Als Lehrer und Konzepter erlebe ich das in meinen Kursen immer wieder: Die schiere Größe der globalen Herausforderungen – Krieg, Hunger, Klimawandel – führt oft zur Starre statt zur Handlung. Man fragt sich: Lohnt sich der Einsatz überhaupt noch?
 
 ## Der Gewinn liegt im Tun
