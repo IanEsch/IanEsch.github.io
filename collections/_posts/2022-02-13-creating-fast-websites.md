@@ -1,66 +1,54 @@
 ---
 layout: post
-title: "How to make your website page load speed fast"
+title: "<strong>Growing Futur:</strong> Permakultur - Das älteste neue Denken"
 date: 2022-02-13T09:49:03Z
-authors: ["Mike Vance"]
-categories: ["Branding"]
+authors: ["Ian Esch"]
+categories: ["Growing Future"]
 description: Branding is an intrinsic part of your companies success, learn why your brand matters.
-thumbnail: "/assets/images/gen/blog/blog-18-thumbnail.webp"
-image: "/assets/images/gen/blog/blog-18.webp"
+thumbnail: "/assets/images/gen/blog/growingfuture-thumbnail.png"
+image: "/assets/images/gen/blog/growingfuture-thumbnail.png"
 comments: false
 subscribe: true
 ---
 
-Markdown is a lightweight markup language with plain-text-formatting syntax. Its design allows it to be converted to many output formats, but the original tool by the same name only supports HTML. Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor.
+Es gibt Ideen, die klingen nach Zukunft – und sind dabei uralt. Permakultur ist eine davon.
+Der Begriff wurde in den 1970er Jahren von den australischen Wissenschaftlern Bill Mollison und David Holmgren geprägt. Aber das Prinzip dahinter ist so alt wie der Ackerbau selbst: Natürliche Systeme beobachten, verstehen – und dann so gestalten, dass sie dauerhaft produktiv bleiben, ohne sie zu erschöpfen. "Permanent Agriculture", dauerhafter Anbau, war die ursprüngliche Idee. Heute steht Permakultur für weit mehr.
 
-Since the initial description of Markdown contained ambiguities and unanswered questions, the implementations that appeared over the years have subtle differences and many come with syntax extensions.
+##Mehr als Gärtnern
 
-## History
+Permakultur wird oft mit alternativen Gärten oder Selbstversorgerhöfen assoziiert. Das greift zu kurz. Im Kern ist es ein Designsystem – anwendbar auf Landwirtschaft, Stadtplanung, Wasserversorgung, sogar auf soziale Strukturen. Die drei Leitprinzipien sind denkbar einfach: Sorge für die Erde. Sorge für die Menschen. Teile gerecht, was übrig bleibt.
+Was das in der Praxis bedeutet: Anstatt gegen die Natur zu wirtschaften, arbeitet Permakultur mit ihr. Schädlinge werden nicht bekämpft, sondern durch Biodiversität reguliert. Boden wird nicht als Substrat behandelt, das man düngt, sondern als lebendiges System, das man schützt. Wasser wird nicht abgeleitet, sondern gehalten.
 
-John Gruber created the [Markdown](#) language in 2004 in collaboration with Aaron Swartz on the syntax, with the goal of enabling people "to write using an easy-to-read and easy-to-write plain text format". Its key design goal is readability. That the language be readable as-is.
+##Was die Forschung sagt
 
-> "Markdown is a lightweight markup language with plain-text-formatting syntax"
+Die wissenschaftliche Evidenz für permakulturbasierte Anbausysteme wächst. Eine Metaanalyse aus dem Jahr 2019, veröffentlicht im Fachjournal Agronomy for Sustainable Development, zeigte, dass agroökologische Systeme – zu denen Permakultur gehört – in kleinbäuerlichen Strukturen des Globalen Südens Erträge um durchschnittlich 79 Prozent steigern konnten. Auch in industrialisierten Ländern wächst das Interesse: Immer mehr mittelgroße Betriebe integrieren permakulturelle Prinzipien in ihre Bewirtschaftung. ¹
+Die Forschungseinrichtung Rodale Institute verfolgt seit über 30 Jahren einen Langzeitvergleich zwischen biologischen und konventionellen Anbaumethoden. Ergebnis: Nach einer Übergangsphase erreichen regenerative Systeme vergleichbare oder höhere Erträge – bei deutlich geringerem Ressourceneinsatz. ²
 
-To this end, its main inspiration is the existing conventions for marking up plain text in email, though it also draws from earlier markup languages, notably setext, Textile, and reStructuredText.
+Permakultur ist kein Nischenthema mehr. Die FAO hat 2018 die "10 Elements of Agroecology" veröffentlicht und verweist damit auf agroökologische Ansätze als Teil der Antwort auf globale Ernährungssicherheit und Klimaresilienz. ³
+Warum das jetzt relevant ist
 
-## Markdown Flavours
+Konventionelle Landwirtschaft steht unter Druck. Etwa ein Drittel der weltweiten Böden gilt als degradiert – durch Überdüngung, Monokulturen, falsche Bewirtschaftung. Gleichzeitig muss eine wachsende Weltbevölkerung ernährt werden, während Extremwetterereignisse zunehmen und Wasserressourcen knapper werden. ⁴
+Permakultur bietet keine einfache Lösung. Aber sie bietet ein Denksystem, das diese Probleme zusammendenkt statt sie isoliert zu behandeln. Das ist ihr eigentlicher Wert.
 
-From 2012, a group of people including Jeff Atwood and John MacFarlane launched what Atwood characterized as a standardization effort. A community website now aims to "document various tools and resources available to document authors and developers, as well as implementors of the various markdown implementations".
+![Gemeinsam umdenken und Permakultur anwenden](/assets/images/gen/blog/growing-future-2.jpg)
 
-{% include framework/shortcodes/figure.html src="/assets/images/gen/content/content-1.webp" title="There are many popular text editors for Markdown" caption="VSCode Editor" alt="Photo of designing a website in Figma" link="https://figma.com" target="\_blank" %}
+##Was man selbst tun kann
 
-### GitHub Flavored Markdown (GFM)
+Permakultur braucht keinen Hektar Land. Die Prinzipien lassen sich auf jeden Maßstab anwenden.
+Ein Kräuterbeet mit mehreren Schichten – niedrige Bodendecker, mittelhohe Kräuter, ein kleiner Strauch – ist ein permakulturelles System. Kompostierung ist Permakultur. Regenwasser sammeln ist Permakultur. Beete mulchen statt umgraben ist Permakultur.
+Wer mehr will: In Deutschland gibt es inzwischen ein wachsendes Netz an Permakultur-Kursen und Demonstrationsflächen. Der Einstieg ist niedrigschwellig, die Lernkurve steil – im positiven Sinne.
 
-In 2017, GitHub released a formal specification of their GitHub Flavored Markdown (GFM) that is based on CommonMark. It follows the CommonMark specification exactly except for tables, strikethrough, autolinks and task lists, which the GitHub spec has added as extensions. GitHub also changed the parser used on their sites accordingly, which required that some documents be changed. For instance, GFM now requires that the hash symbol that creates a heading be separated from the heading text by a space character.he user to create their own.
+Das Besondere an Permakultur ist nicht, dass sie neu ist. Es ist, dass sie funktioniert. Und dass sie eine Haltung beschreibt, nicht nur eine Methode: Weniger eingreifen. Besser beobachten. Langfristig denken.
+In einer Zeit, in der viele Lösungen schnell, technisch und skalierbar sein sollen, ist das eine ungewohnte Qualität. Und vielleicht genau deswegen so wertvoll.
 
-{% include framework/shortcodes/figure.html src="/assets/images/gen/content/content-2.webp" title="There are many popular text editors for Markdown" caption="VSCode Editor" alt="Photo of designing a website in Figma" link="https://figma.com" target="\_blank" %}
+![Permakultur als echte Alternative](/assets/images/gen/blog/growing-future-1.jpg)
 
-### Markdown Extra
-
-Markdown Extra is a lightweight markup language based on Markdown implemented in PHP (originally), [Python](#) and [Ruby](#). It adds features not available with plain Markdown syntax. Markdown Extra is supported in some content management systems such as, for example, Drupal.
-
-### MDX
-
-At the same time, a number of ambiguities in the informal specification had attracted attention.These issues spurred the creation of tools such as Babelmark to compare the output of various implementations, and an effort by some developers of Markdown parsers for standardisation. However, Gruber has argued that complete standardization would be a mistake:
-
-```js
-$(window).scroll(function () {
-  // this will work when your window scrolled.
-  var scroll = $(window).scrollTop();
-  if (scroll > 100) {
-    $(".header").addClass("header-scrolled");
-  } else {
-    $(".header").removeClass("header-scrolled");
-  }
-});
-```
-
-Gruber avoided using curly braces in Markdown to unofficially reserve them for implementation-specific extensions. Markdown Extra adds the following features to Markdown:
-
-- markdown markup inside HTML blocks
-- elements with id/class attribute
-- fenced code blocks that span multiple lines of code
-- tables
-- definition lists
-- footnotes
-- abbreviations
+###Quellen – Permakultur: Das älteste neue Denken
+¹ Badgley, C. et al. (2007): Organic agriculture and the global food supply. Renewable Agriculture and Food Systems, 22(2), 86–108.
+https://doi.org/10.1017/S1742170507001640
+² Rodale Institute (2011): The Farming Systems Trial – 30 Years.
+https://rodaleinstitute.org/science/farming-systems-trial/
+³ FAO (2018): The 10 Elements of Agroecology.
+https://www.fao.org/agroecology/overview/overview10elements/en/
+⁴ FAO & ITPS (2015): Status of the World's Soil Resources – Main Report.
+https://www.fao.org/3/i5199e/I5199E.pdf

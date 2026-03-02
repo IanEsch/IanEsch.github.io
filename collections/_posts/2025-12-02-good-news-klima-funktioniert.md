@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Good News: <strong>Klimaschutz funktioniert!</strong>"
+title: "<strong>Good News:</strong> Klimaschutz funktioniert!"
 date: 2025-12-02
 authors: ["Ian Esch"]
 categories: ["#Good News", "#SDG", "#Nachhaltigkeit", "#BNE"]
