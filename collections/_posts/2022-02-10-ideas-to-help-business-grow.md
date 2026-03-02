@@ -1,64 +1,49 @@
 ---
 layout: post
-title: "Ideas to help your business grow"
-date: 2022-03-11T16:49:03Z
-authors: ["Mike Vance", "Marc Paulo"]
-categories: ["Branding", "Marketing"]
-description: Branding is an intrinsic part of your companies success, learn why your brand matters.
-thumbnail: "/assets/images/gen/blog/blog-17-thumbnail.webp"
-image: "/assets/images/gen/blog/blog-17.webp"
+title: "Vertical Farming: Zukunft oder Hype?"
+date: 2025-12-21
+authors: ["Ian Esch"]
+categories: ["Growing Future"]
+description: 
+thumbnail: "/assets/images/gen/blog/verticalgarden-thumbnail"
+image: "/assets/images/gen/blog/verticalgarden-thumbnail"
 ---
 
-Markdown is a lightweight markup language with plain-text-formatting syntax. Its design allows it to be converted to many output formats, but the original tool by the same name only supports HTML. Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor.
+Pflanzen wachsen in Regalen, unter LED-Licht, ohne Erde, ohne Pestizide, mitten in der Stadt. Vertical Farming ist keine Zukunftsvision mehr – die Technologie existiert, wird kommerziell betrieben, und expandiert. Gleichzeitig sind in den letzten Jahren mehrere gut finanzierte Unternehmen gescheitert. Beides lässt sich erklären.
 
-Since the initial description of Markdown contained ambiguities and unanswered questions, the implementations that appeared over the years have subtle differences and many come with syntax extensions.
+### Die Grundidee
+In geschlossenen, mehrgeschossigen Anlagen wachsen Pflanzen in kontrollierten Umgebungen. Temperatur, Luftfeuchtigkeit, Licht und Nährstoffe werden präzise gesteuert. Kein Wetter, keine Schädlinge, kein Saisonrhythmus. Die Ernte ist planbar, die Qualität konstant.
+Der räumliche Vorteil liegt auf der Hand: Vertical Farms lassen sich in bestehende Stadtstrukturen integrieren – in Lagerhallen, Industriebrachen, Untergeschosse. Der Anbau findet dort statt, wo die Menschen sind. Transportwege verkürzen sich, Kühlketten werden kürzer, Lebensmittelverluste sinken.
+Das Prinzip ist nicht neu. Hydroponische Anbausysteme, also Pflanzenkulturen ohne Erde in Nährlösung, existieren seit Jahrzehnten. Was sich verändert hat, ist die Kombination aus präziser LED-Technologie, Automatisierung und Datensystemen, die einen wirtschaftlich skalierbaren Betrieb erst möglich machen.
 
-## History
+![Vertikale Anlage unter LED Licht](/assets/images/gen/blog/vertical-garden-3.jpg)
 
-John Gruber created the [Markdown](#) language in 2004 in collaboration with Aaron Swartz on the syntax, with the goal of enabling people "to write using an easy-to-read and easy-to-write plain text format". Its key design goal is readability. That the language be readable as-is.
+### Was die Zahlen sagen
+Verglichen mit konventionellem Freilandanbau verbrauchen Vertical-Farming-Systeme bis zu 95 Prozent weniger Wasser – durch geschlossene Kreisläufe, die kaum Verdunstung zulassen. Das ist besonders relevant in Regionen mit Wasserknappheit oder unsicherer Niederschlagslage.
+Pestizide entfallen in geschlossenen Systemen weitgehend. Die kontrollierte Umgebung macht Schädlingsbefall zur Ausnahme, nicht zur Regel. Das reduziert chemischen Input und vereinfacht die Zertifizierung biologischer Anbaustandards.
+Für bestimmte Kulturen funktioniert das bereits kommerziell: Blattsalate, Kräuter, Spinat, Microgreens. In Japan, den Niederlanden und den USA beliefern großflächige Anlagen Supermärkte und Restaurants, teils mit vertraglich gesicherten Abnahmemengen über mehrere Jahre.
 
-> "Markdown is a lightweight markup language with plain-text-formatting syntax"
+### Kritikpunkt: Energie
+Pflanzen brauchen Licht. In geschlossenen Systemen kommt es vollständig aus Lampen. Das ist der entscheidende Unterschied zur Gewächshauslandwirtschaft, die zumindest teilweise auf Sonnenlicht zurückgreift.
+Je nach Kultur und Standort verbraucht Vertical Farming zwischen 10 und 100 Mal mehr Energie pro Kilogramm Ernte als Freilandanbau. Solange dieser Strom nicht vollständig aus erneuerbaren Quellen stammt, ist die CO₂-Bilanz problematisch – und hebt einen Teil der ökologischen Vorteile wieder auf.
+Das ist kein unlösbares Problem, aber ein zeitabhängiges. Mit sinkenden Kosten für erneuerbare Energien und verbesserter LED-Effizienz verschiebt sich die Rechnung. Wo das hingehen kann, zeigen Pilotprojekte, die bereits vollständig mit Solarstrom betrieben werden.
+Was sich nicht vertical farmen lässt
+Getreide, Hülsenfrüchte, Kartoffeln, Mais – die Grundlage der globalen Ernährung – lassen sich in diesen Systemen wirtschaftlich nicht produzieren. Der Flächenbedarf, die Wachstumszeit und der Energieaufwand machen es schlicht unrentabel. Vertical Farming bleibt vorerst auf Kulturen beschränkt, die einen hohen Marktwert haben, schnell wachsen und wenig Platz brauchen.
+Das erklärt auch, warum mehrere prominente US-amerikanische Start-ups in den letzten Jahren in wirtschaftliche Schwierigkeiten geraten sind. Das Versprechen war groß, die Betriebskosten – vor allem für Strom und Arbeit – größer. Wer Vertical Farming als universelle Antwort auf die Ernährungsfrage positioniert, überdehnt das Konzept.
 
-To this end, its main inspiration is the existing conventions for marking up plain text in email, though it also draws from earlier markup languages, notably setext, Textile, and reStructuredText.
+![Hydroponischer Anbau](/assets/images/gen/blog/vertical-garden-4.jpg)
 
-## Markdown Flavours
+### Zukunft oder Hype?
+Vertical Farming ist kein Ersatz für konventionelle Landwirtschaft – und wird es in absehbarer Zeit nicht sein. Als ergänzendes System hat es aber einen realen Platz: in der städtischen Frischversorgung, in Regionen mit extremen klimatischen Bedingungen oder chronischer Wasserknappheit, in der pharmazeutischen Pflanzenproduktion, in der Forschung zu Pflanzengenetik und Resilienz.
+Der sinnvolle Umgang mit der Technologie liegt nicht im Entweder-Oder, sondern in der Frage: Wo macht sie Sinn, und wo nicht? Diese Frage ehrlich zu stellen, ist wichtiger als die nächste Pressemitteilung über die größte Vertical Farm der Welt.
 
-From 2012, a group of people including Jeff Atwood and John MacFarlane launched what Atwood characterized as a standardization effort. A community website now aims to "document various tools and resources available to document authors and developers, as well as implementors of the various markdown implementations".
+### Quellen – Vertical Farming: Zukunft oder Hype?
 
-{% include framework/shortcodes/figure.html src="/assets/images/gen/content/content-1.webp" title="There are many popular text editors for Markdown" caption="VSCode Editor" alt="Photo of designing a website in Figma" link="https://figma.com" target="\_blank" %}
+¹ Benke, K. & Tomkins, B. (2017): Future food-production systems: vertical farming and controlled-environment agriculture. Sustainability: Science, Practice and Policy, 13(1), 13–26.
+https://doi.org/10.1080/15487733.2017.1394054
 
-### GitHub Flavored Markdown (GFM)
+² Avgoustaki, D.D. & Xydis, G. (2020): Indoor Vertical Farming in the Urban Nexus Context: Business Growth and Resource Savings. Sustainability, 12(5), 1965.
+https://doi.org/10.3390/su12051965
 
-In 2017, GitHub released a formal specification of their GitHub Flavored Markdown (GFM) that is based on CommonMark. It follows the CommonMark specification exactly except for tables, strikethrough, autolinks and task lists, which the GitHub spec has added as extensions. GitHub also changed the parser used on their sites accordingly, which required that some documents be changed. For instance, GFM now requires that the hash symbol that creates a heading be separated from the heading text by a space character.he user to create their own.
-
-{% include framework/shortcodes/figure.html src="/assets/images/gen/content/content-2.webp" title="There are many popular text editors for Markdown" caption="VSCode Editor" alt="Photo of designing a website in Figma" link="https://figma.com" target="\_blank" %}
-
-### Markdown Extra
-
-Markdown Extra is a lightweight markup language based on Markdown implemented in PHP (originally), [Python](#) and [Ruby](#). It adds features not available with plain Markdown syntax. Markdown Extra is supported in some content management systems such as, for example, Drupal.
-
-### MDX
-
-At the same time, a number of ambiguities in the informal specification had attracted attention.These issues spurred the creation of tools such as Babelmark to compare the output of various implementations, and an effort by some developers of Markdown parsers for standardisation. However, Gruber has argued that complete standardization would be a mistake:
-
-```js
-$(window).scroll(function () {
-  // this will work when your window scrolled.
-  var scroll = $(window).scrollTop();
-  if (scroll > 100) {
-    $(".header").addClass("header-scrolled");
-  } else {
-    $(".header").removeClass("header-scrolled");
-  }
-});
-```
-
-Gruber avoided using curly braces in Markdown to unofficially reserve them for implementation-specific extensions. Markdown Extra adds the following features to Markdown:
-
-- markdown markup inside HTML blocks
-- elements with id/class attribute
-- fenced code blocks that span multiple lines of code
-- tables
-- definition lists
-- footnotes
-- abbreviations
+³ Kozai, T. et al. (Hrsg.) (2019): Plant Factory: An Indoor Vertical Farming System for Efficient Quality Food Production. Academic Press.
+(Kein freier Link – Standardwerk, über Bibliotheken zugänglich)
