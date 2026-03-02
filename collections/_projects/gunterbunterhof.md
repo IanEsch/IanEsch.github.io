@@ -6,7 +6,7 @@ meta_title: "Gunterbunter Hof | Regenerative Landwirtschaft und Umweltbildung"
 meta_description: "Der Gunterbunter Hof ist ein skalierbares Systemmodell für Kommunen: Artenschutz, Inklusion und digitale Umweltbildung in einem finanzierbaren Konzept."
 date: 2024-06-01
 weight: 1
-thumbnail: "/assets/images/gen/projects/gunterbunter-thumbnail.webp"
+thumbnail: "/assets/images/gen/projects/gunterbunter-hof-1.jpg"
 image: "/assets/images/gen/projects/gunterbunter.webp"
 client: "Konzept in Entwicklung"
 categories: ["Regenerative Landwirtschaft", "Artenschutz", "Umweltbildung"]
