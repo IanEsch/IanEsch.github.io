@@ -6,6 +6,8 @@ meta_title: "Umweltbildung & Nachhaltigkeitskurse für Unternehmen und Erwachsen
 meta_description: "BNE-Kurse, Workshops und Vorträge zu Nachhaltigkeit, SDGs und Umweltbildung — für Unternehmen, Volkshochschulen und Bildungseinrichtungen."
 date: 2024-01-01
 weight: 3
+thumbnail: "/assets/images/gen/projects/erwachsenenbildung-1.jpg"
+image: "/assets/images/gen/projects/project-3-1.webp"
 categories: ["Erwachsenenbildung", "BNE", "Nachhaltigkeit"]
 ---
 
