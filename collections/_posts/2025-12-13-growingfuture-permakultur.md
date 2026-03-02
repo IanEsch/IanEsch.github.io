@@ -44,11 +44,15 @@ In einer Zeit, in der viele Lösungen schnell, technisch und skalierbar sein sol
 ![Permakultur als echte Alternative](/assets/images/gen/blog/growing-future-1.jpg)
 
 ### Quellen – Permakultur: Das älteste neue Denken
+
 ¹ Badgley, C. et al. (2007): Organic agriculture and the global food supply. Renewable Agriculture and Food Systems, 22(2), 86–108.
 https://doi.org/10.1017/S1742170507001640
+
 ² Rodale Institute (2011): The Farming Systems Trial – 30 Years.
 https://rodaleinstitute.org/science/farming-systems-trial/
+
 ³ FAO (2018): The 10 Elements of Agroecology.
 https://www.fao.org/agroecology/overview/overview10elements/en/
+
 ⁴ FAO & ITPS (2015): Status of the World's Soil Resources – Main Report.
 https://www.fao.org/3/i5199e/I5199E.pdf
