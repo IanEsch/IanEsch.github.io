@@ -6,15 +6,15 @@ meta_title: "Blätterdach | Urbaner Sortenerhalt und Umweltbildung auf dem Bibli
 meta_description: "Das Blätterdach verwandelt Bibliotheksdächer in lebendige Lernorte — mit bedrohten Kulturpflanzen, digitaler Infrastruktur und einem skalierbaren Lizenzmodell für Kommunen."
 date: 2024-03-01
 weight: 2
-thumbnail: "/assets/images/gen/projects/blaetterdach-thumbnail.webp"
-image: "/assets/images/gen/projects/blaetterdach.webp"
+thumbnail: "/assets/images/gen/projects/blaetterdach-1.jpg"
+image: "/assets/images/gen/projects/blaetterdach.1"
 client: "Konzept in Entwicklung"
 categories: ["Urbane Bildung", "Sortenerhalt", "Stadtentwicklung"]
 role: "Konzeptentwicklung"
 gallery:
-  - image: "/assets/images/gen/projects/blaetterdach-1.webp"
-  - image: "/assets/images/gen/projects/blaetterdach-2.webp"
-  - image: "/assets/images/gen/projects/blaetterdach-3.webp"
+  - image: "/assets/images/gen/projects/blaetterdach-4.jpg"
+  - image: "/assets/images/gen/projects/blaetterdach-2.jpg"
+  - image: "/assets/images/gen/projects/blaetterdach-3.jpg"
 ---
 
 Stadtbibliotheken sind längst mehr als Orte der Buchausleihe. Sie sind Begegnungsräume, Lernorte, gesellschaftliche Ankerpunkte. Ihre Dächer aber liegen meist brach — versiegelt, ungenutzt, unsichtbar.
