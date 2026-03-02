@@ -19,6 +19,8 @@ Der Begriff wurde in den 1970er Jahren von den australischen Wissenschaftlern Bi
 Permakultur wird oft mit alternativen Gärten oder Selbstversorgerhöfen assoziiert. Das greift zu kurz. Im Kern ist es ein Designsystem – anwendbar auf Landwirtschaft, Stadtplanung, Wasserversorgung, sogar auf soziale Strukturen. Die drei Leitprinzipien sind denkbar einfach: Sorge für die Erde. Sorge für die Menschen. Teile gerecht, was übrig bleibt.
 Was das in der Praxis bedeutet: Anstatt gegen die Natur zu wirtschaften, arbeitet Permakultur mit ihr. Schädlinge werden nicht bekämpft, sondern durch Biodiversität reguliert. Boden wird nicht als Substrat behandelt, das man düngt, sondern als lebendiges System, das man schützt. Wasser wird nicht abgeleitet, sondern gehalten.
 
+![Permakultur als echte Alternative](/assets/images/gen/blog/growing-future-1.jpg)
+
 ## Was die Forschung sagt
 
 Die wissenschaftliche Evidenz für permakulturbasierte Anbausysteme wächst. Eine Metaanalyse aus dem Jahr 2019, veröffentlicht im Fachjournal Agronomy for Sustainable Development, zeigte, dass agroökologische Systeme – zu denen Permakultur gehört – in kleinbäuerlichen Strukturen des Globalen Südens Erträge um durchschnittlich 79 Prozent steigern konnten. Auch in industrialisierten Ländern wächst das Interesse: Immer mehr mittelgroße Betriebe integrieren permakulturelle Prinzipien in ihre Bewirtschaftung. ¹
@@ -30,7 +32,6 @@ Warum das jetzt relevant ist
 Konventionelle Landwirtschaft steht unter Druck. Etwa ein Drittel der weltweiten Böden gilt als degradiert – durch Überdüngung, Monokulturen, falsche Bewirtschaftung. Gleichzeitig muss eine wachsende Weltbevölkerung ernährt werden, während Extremwetterereignisse zunehmen und Wasserressourcen knapper werden. ⁴
 Permakultur bietet keine einfache Lösung. Aber sie bietet ein Denksystem, das diese Probleme zusammendenkt statt sie isoliert zu behandeln. Das ist ihr eigentlicher Wert.
 
-![Gemeinsam umdenken und Permakultur anwenden](/assets/images/gen/blog/growing-future-2.jpg)
 
 ## Was man selbst tun kann
 
@@ -38,9 +39,9 @@ Permakultur braucht keinen Hektar Land. Die Prinzipien lassen sich auf jeden Ma�
 Ein Kräuterbeet mit mehreren Schichten – niedrige Bodendecker, mittelhohe Kräuter, ein kleiner Strauch – ist ein permakulturelles System. Kompostierung ist Permakultur. Regenwasser sammeln ist Permakultur. Beete mulchen statt umgraben ist Permakultur.
 Wer mehr will: In Deutschland gibt es inzwischen ein wachsendes Netz an Permakultur-Kursen und Demonstrationsflächen. Der Einstieg ist niedrigschwellig, die Lernkurve steil – im positiven Sinne.
 
-Das Besondere an Permakultur ist nicht, dass sie neu ist. Es ist, dass sie funktioniert. Und dass sie eine Haltung beschreibt, nicht nur eine Methode: Weniger eingreifen. Besser beobachten. Langfristig denken. In einer Zeit, in der viele Lösungen schnell, technisch und skalierbar sein sollen, ist das eine ungewohnte Qualität. Und vielleicht genau deswegen so wertvoll.
+![Gemeinsam umdenken und Permakultur anwenden](/assets/images/gen/blog/growing-future-2.jpg)
 
-![Permakultur als echte Alternative](/assets/images/gen/blog/growing-future-1.jpg)
+Das Besondere an Permakultur ist nicht, dass sie neu ist. Es ist, dass sie funktioniert. Und dass sie eine Haltung beschreibt, nicht nur eine Methode: Weniger eingreifen. Besser beobachten. Langfristig denken. In einer Zeit, in der viele Lösungen schnell, technisch und skalierbar sein sollen, ist das eine ungewohnte Qualität. Und vielleicht genau deswegen so wertvoll.
 
 ### Quellen – Permakultur: Das älteste neue Denken
 
