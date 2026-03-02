@@ -5,8 +5,8 @@ date: 2025-12-21
 authors: ["Ian Esch"]
 categories: ["Growing Future"]
 description: "Können wir durch vertikalen Anbau alle satt werden?"
-thumbnail: "/assets/images/gen/blog/verticalgarden-thumbnail"
-image: "/assets/images/gen/blog/verticalgarden-thumbnail"
+thumbnail: "/assets/images/gen/blog/verticalgarden-thumbnail.jpg"
+image: "/assets/images/gen/blog/verticalgarden-thumbnail.jpg"
 ---
 
 Pflanzen wachsen in Regalen, unter LED-Licht, ohne Erde, ohne Pestizide, mitten in der Stadt. Vertical Farming ist keine Zukunftsvision mehr – die Technologie existiert, wird kommerziell betrieben, und expandiert. Gleichzeitig sind in den letzten Jahren mehrere gut finanzierte Unternehmen gescheitert. Beides lässt sich erklären.
