@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "<strong>Growing Futur:</strong> Permakultur - Das älteste neue Denken"
+title: "<strong>Growing Future:</strong> Permakultur - Das älteste neue Denken"
 date: 2025-12-13
 authors: ["Ian Esch"]
 categories: ["Growing Future"]
