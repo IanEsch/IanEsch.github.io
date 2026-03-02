@@ -17,7 +17,7 @@ body_classes: page-home
 </div>
 
 {% assign cards = site.projects | sort: 'date' | reverse %}
-{% assign limit = page.projects.limit | default: 3 %}
+{% assign limit = page.projects.limit | default: 4 %}
 {% assign sort_by = page.projects.sort | default: 'date' %}
 {% assign columns =  page.projects.columns | default: 2 %}
 {% capture columns %}col-lg-{{ 12 | divided_by:columns }}{% endcapture %}
