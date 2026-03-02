@@ -4,7 +4,7 @@ title: "<strong>Growing Future:</strong> Permakultur - Das älteste neue Denken"
 date: 2025-12-13
 authors: ["Ian Esch"]
 categories: ["Growing Future"]
-description:
+description: "Wiederentdeckung alter Techniken zur Rettung von Biotopen"
 thumbnail: "/assets/images/gen/blog/growingfuture-thumbnail.png"
 image: "/assets/images/gen/blog/growingfuture-thumbnail.png"
 comments: false

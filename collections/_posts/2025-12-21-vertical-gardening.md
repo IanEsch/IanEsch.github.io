@@ -4,7 +4,7 @@ title: "Vertical Farming: Zukunft oder Hype?"
 date: 2025-12-21
 authors: ["Ian Esch"]
 categories: ["Growing Future"]
-description: 
+description: "Können wir durch vertikalen Anbau alle satt werden?"
 thumbnail: "/assets/images/gen/blog/verticalgarden-thumbnail"
 image: "/assets/images/gen/blog/verticalgarden-thumbnail"
 ---
