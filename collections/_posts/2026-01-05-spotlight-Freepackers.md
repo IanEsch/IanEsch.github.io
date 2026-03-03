@@ -5,8 +5,8 @@ date: 2026-01-05
 authors: ["Ian Esch"]
 categories: ["#Spotlight"]
 description: "Reisen mit Wirkung – wie eine Organisation aus Barcelona junge Menschen zu Naturschützern auf Zeit macht."
-thumbnail: "/assets/images/gen/blog/freepackers-thumb.jpg"
-image: "/assets/images/gen/blog/freepackers-thumb.jpg"
+thumbnail: "/assets/images/gen/blog/freepackers-thumb.png"
+image: "/assets/images/gen/blog/freepackers-thumb.png"
 ---
 
 ### Unterwegs für die Welt
