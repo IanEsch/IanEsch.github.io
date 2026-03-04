@@ -70,3 +70,9 @@ html[data-bs-theme='dark'] .subscribe-form input {
 }
 
 /* ------------------------------------ */
+
+@media (max-width: 768px) {
+  .heading-heading h1 {
+    font-size: 2rem;
+  }
+}
