@@ -2,7 +2,7 @@
 layout: home
 permalink: "/"
 title: "Bildung, Natur, <strong>Zukunft</strong>"
-description: "Für eine Welt, in der <strong>Bildung und Natur</strong> denselben Platz haben. Damit die nächste Generation mehr erbt als Probleme."
+description: "Für eine Welt, in der <strong>Bildung und Natur</strong> denselben Platz haben. Skalierbarer Naturschutz und Umweltbildung — Konzepte für Städte, gemacht für Menschen."
 meta_description: "Skalierbarer Naturschutz und Umweltbildung — Konzepte für Städte, gemacht für Menschen."
 meta_title: Bildung & Nachhaltigkeit | Fokus Zukunft
 subscribe: false

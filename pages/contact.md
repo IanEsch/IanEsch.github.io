@@ -6,6 +6,5 @@ permalink: "/kontakt/"
 
 ## Contact Info
 
-- **Email:** <a href="mailto:example@example.com">example@example.com</a>
-- **Phone:** +61 0417 123 XXX
+- **Email:** <a href="mailto:esch.ian.mail@gmail.com">esch.ian.mail@gmail.com</a>
 - **Address:** Clem Jones Promenade, South Brisbane QLD 4101
